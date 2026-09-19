@@ -109,9 +109,18 @@ div {
   header {
     height: 90px;
   }
+
+  aside {
+    display: none;
+  }
   
-  img {
-    width: 200px;
+  header img {
+    width: 180px;
     height: 70px;
+  }
+
+  div {
+    width: 150px;
+    height: 220px;
   }
 }
